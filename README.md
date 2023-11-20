@@ -1,7 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+THIS PROBLEM NEEDS NODE.JS LATEST VERSION Installed
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run this project by performing this command:
+npm start
